@@ -6,3 +6,6 @@
 ### Draw Line
 ![Screen Shot 2020-10-22 at 9 57 46 AM](https://user-images.githubusercontent.com/42384464/96824769-3e963200-144d-11eb-820c-4ab90478ad92.png)
 
+### Draw Square
+![DrawSquare](https://user-images.githubusercontent.com/42384464/96937323-7f418a00-14e5-11eb-8374-0d49caa28d8f.png)
+
