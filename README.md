@@ -15,3 +15,6 @@
 ### Project
 ![Project](https://user-images.githubusercontent.com/42384464/97067880-15f27180-15e0-11eb-8440-e9e856f98e51.png)
 
+### Triangle
+![Triangle](https://user-images.githubusercontent.com/42384464/97067918-6cf84680-15e0-11eb-816c-2e0111d6ac06.png)
+
